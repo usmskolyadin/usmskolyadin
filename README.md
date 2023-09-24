@@ -7,4 +7,4 @@
 *and still so more..*  
 
 From **online store** & **social media** to **meta universe** ⭐</br>
-P.S. Already in the process of self-development
+P.S. Already in the process of self-development...

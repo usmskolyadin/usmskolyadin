@@ -1,6 +1,6 @@
 💻 **Full Stack** Developer on Python/Javascript </br>
 📌 **Location**: Russia, Lipetsk/Europe </br>
-⭐ Building modern web apps & AI </br>
+⭐ Building modern web apps, bots & AI </br>
 
 **My stack:**</br>
 ```Python, Django, FastAPI, Celery, Redis, Docker, Javascript/Typescript, Node.js, React/Next.js, Redux```

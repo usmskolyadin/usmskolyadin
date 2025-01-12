@@ -1,10 +1,8 @@
-💻 **Full Stack** Developer on Python/Javascript </br>
+💻 **FullStack** Developer on Python/Javascript, **DevOps**, **TeamLead** & **Product/Project Manager**</br>
 📌 **Location**: Russia, Lipetsk/Europe </br>
-⭐ Building modern web apps, bots & AI </br>
+⭐ Building modern web applications, bots & AI-based services</br>
 
-**My stack:**</br>
-```Python, Django, FastAPI, Celery, Redis, Docker, Javascript/Typescript, Node.js, React/Next.js, Redux```
-*and still so more..*  
+**The technologies I use:**</br>
+```Python, FastAPI, SQLAlchemy, Celery, Redis, RabbitMQ, Docker, Django, Javascript/Typescript, Node.js, React/Next.js, Redux, Express.js```
 
-From **online store** & **social media** to **meta universe** ⭐</br>
 P.S. Already in the process of self-development...

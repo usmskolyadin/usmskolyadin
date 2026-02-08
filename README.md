@@ -4,11 +4,11 @@
 
 **The technologies I use...**</br>
 
-**..as BackEnd** - ```Python, FastAPI, SQLAlchemy, Celery, Redis, RabbitMQ, Django. + DDD, Clear, Onion, Linear architecture```
+**..as BackEnd** - ```Python, FastAPI, SQLAlchemy, Celery, Redis, RabbitMQ, Django / Django REST Framework. + DDD, Clear, Onion, Linear architectures```
 
-**..as FrontEnd** - ```Javascript/Typescript, Node.js, React/Next.js, Redux, Express.js. + FSD, Flux, Clear, Onlion, Linear architecture```
+**..as FrontEnd** - ```JS/TS, Node.js, React/Next.js, Redux, Express.js. + FSD, Flux, Clear, Onlion, Linear architectures```
 
-**..as PM** - ```SCRUM (Agile), Jira, Gihub Project, Miro, Figma```
+**..as ML/DS Engineer ** - ```Pandas, Numpy, Scikit-Learn, XGBoost / LightGBM / CatBoost, Feature-engine / Boruta, Tensorflow + Keras, PyTorch```
 
 **..as DevOps** - ```Docker, K8S``` 
 

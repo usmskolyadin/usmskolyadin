@@ -1,6 +1,6 @@
-💻 **FullStack** Developer on Python/Javascript, **DevOps**, **TeamLead** & **Product/Project Manager**</br>
+💻 **FullStack** Developer on Python/Javascript, **ML Engineer**</br>
 📌 **Location**: Russia, Lipetsk/Europe </br>
-⭐ Building modern web applications, bots & AI-based services</br>
+⭐ Building responsible web applications, bots & AI-based services</br>
 
 **The technologies I use...**</br>
 
@@ -8,7 +8,7 @@
 
 **..as FrontEnd** - ```JS/TS, Node.js, React/Next.js, Redux, Express.js. + FSD, Flux, Clear, Onlion, Linear architectures```
 
-**..as ML/DS Engineer ** - ```Pandas, Numpy, Scikit-Learn, XGBoost / LightGBM / CatBoost, Feature-engine / Boruta, Tensorflow + Keras, PyTorch```
+**..as ML/DS Engineer** - ```Pandas, Numpy, Scikit-Learn, XGBoost / LightGBM / CatBoost, Feature-engine / Boruta, Tensorflow + Keras, PyTorch```
 
 **..as DevOps** - ```Docker, K8S``` 
 

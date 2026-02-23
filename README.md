@@ -24,7 +24,7 @@ TensorFlow + Keras, PyTorch
 
 **DevOps** 
 ```
-Docker, Kubernetes, CI/CD
+Nginx / Apache, Docker, Kubernetes, CI/CD
 ``` 
 
 <a target="_blank" href="https://t.me/bigmoneymgmt/">

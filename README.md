@@ -1,31 +1,26 @@
-💻 **FullStack** **&** **ML Engineer**</br>
+:trophy: **FullStack** **&** **ML Engineer**</br>
 📌 **Location**: Russia, Lipetsk/Europe </br>
-⭐ Building responsible web applications & AI-based services</br>
+⭐ **Idea** Building responsible web applications & AI-based services</br>
 
-**BackEnd**
+**:computer: BackEnd**
 ```
 Python, FastAPI, SQLAlchemy, Celery, Redis, RabbitMQ,
 Django / Django REST Framework
 Architectures: DDD, Clean, Onion, Linear
 ```
-**FrontEnd**
+**:art: FrontEnd**
 ```
 JS/TS, Node.js, React / Next.js, Redux, Express.js
 Architectures: FSD, Flux, Clean, Onion, Linear
 ```
 
-**ML/DS Engineer**
+**:gem: ML/DS Engineer**
 ```
 Pandas, NumPy, Scikit-Learn
 XGBoost, LightGBM, CatBoost
 Feature-engine, Boruta
 TensorFlow + Keras, PyTorch
 ```
-
-**DevOps** 
-```
-Nginx / Apache, Docker, Kubernetes, CI/CD
-``` 
 
 <a target="_blank" href="https://t.me/bigmoneymgmt/">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
